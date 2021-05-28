@@ -1,0 +1,79 @@
+The robot is used: 
+
+to take pictures/video with a camera, 
+
+to flip switches, 
+
+to dip a sensor into water, 
+
+to control via the Internet, 
+
+to check on things, especially false alarms (e.g. Water level alarm: look at it, turn on tap, wait/watch, turn off tap, turn on ventilator. 
+
+ 
+
+6-7 drivers, limit switches for robot arm. 
+
+ 
+
+Priority: mock the joystick to get wheelchair to turn left and right move forward and backward using Arduino. ARCS = Annin robotic control software. 
+
+take over PC using remote admin. 
+
+Need to wire up limit switches. 
+
+Need to wire up controls to robot arm. 
+
+Power is connected. 
+
+ 
+
+Arduino MEGA2560, relay module, six stepper drivers, PC (Wi-Fi, remote access) needs to control Arduino using ARCS software. 
+
+ 
+
+The fish farm concept can work anywhere. 
+
+ 
+
+If bad things happen, there will be only 30 minutes to fix the problem. Worst case scenario: circulation cuts out because power goes, and spare generator doesn’t start; the fish will all die. 
+
+ 
+
+What’s really required: a manually-operated, compressed O2 cylinder with a tube into a submerged airstone and an actuator driven by a battery-powered Arduino (mobile phone command) to give off-grid support for seven hours. Not required. Will not be deivered. 
+
+ 
+
+If the temperature drops 2 degrees Celsius in 24 hours if the fish have eaten and the temperature then drops, they will die. 
+
+ 
+
+Note: what we are doing here is really looking after the water; if the water is maintained correctly, then the fish are incidental. 
+
+ 
+
+300M3 water requires roughly 30 M3/day replenish. 
+
+ 
+
+20M3 maximum extraction rate per borehole x 2 bore holes pumping slowly but continuously 24/7 (100% uptime!). 
+
+ 
+
+RAS = recirculation aquaculture system 
+
+ 
+
+Concept: buy a building, get a fish farm. 
+
+ 
+
+Ammonium is most poisonous chemical - must be removed continuously.  
+
+ 
+
+If you don't replenish with freshwater, nitrates will build up and make the fish ill. Not required. 
+
+ 
+
+Use wheelchair plus Arduino to make wheelchair move. 
