@@ -38,15 +38,15 @@ void flash( int count)
 
 void loop()
 {
-  flash(20);
+  flash(10);
   ST.motor(1, 16);  // Go forward at 16.
   ST.motor(2, 16);  // Go forward at 16.
   delay(20);       // Wait 0.002 seconds.
   ST.motor(1, 32);  // Go forward at 32.
   ST.motor(2, 32);  // Go forward at 32.
-  delay(1000);       // Wait 1 seconds.
+  delay(2000);       // Wait 2 seconds.
   
   ST.motor(1, 0);    // Stop.
   ST.motor(2, 0);    // Stop.
-  delay(2000);       // Wait 2 seconds.
+  delay(20000);       // Wait 20 seconds.
 }
